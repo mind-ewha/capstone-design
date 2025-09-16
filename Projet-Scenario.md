@@ -4,7 +4,7 @@
 |------|------|
 | 프로젝트명 | 뇌혈류 영상 분석을 통한 알츠하이머 조기 진단 |
 | 프로젝트 키워드 | Alzheimer’s disease, Mild Cognitive Impairment, rs-fMRI, ASL, CBF, ALFF, fALFF, ReHo, Functional Connectivity, Dynamic FC, Graph Neural Networks, Transformer, ComBat, Domain Generalization, Explainable AI, Radiomics |
-| 트랙 | Track A: 전통 ML 베이스라인<br>Track B: 그래프 신경망(GNN)<br>Track C: 시계열 Transformer (보너스: 3D-CNN 비교군) |
+| 트랙 | 연구트랙 |
 | 프로젝트 멤버 | 김가영 / 한승연 |
 | 팀지도교수 | 황의원 교수님 |
 | 무엇을 만들고자 하는가 | BOLD rs-fMRI 및 ASL 기반 뇌혈류 대리지표(ALFF/fALFF/ReHo)와 기능 연결망(FC)을 분석하여 경도인지장애(MCI) 및 초기 알츠하이머(AD)를 조기 탐지할 수 있는 AI 모델을 구축하고, 해석가능성과 일반화 성능을 확보한다. |
