@@ -1,4 +1,4 @@
-# Ideation: AI 기반 뇌혈류 영상 분석을 통한 알츠하이머 조기 진단
+# Ideation: 경도인지장애(MCI) 환자의 rs-fMRI 뇌혈류 동영상 데이터를 활용한 Radiomics 및 그래프 신경망 기반 알츠하이머 조기 진단 연구
 
 ## 요약 (TL;DR)
 BOLD rs-fMRI 및 ASL 기반 뇌혈류(hemodynamics) 대리지표 + 기능 연결망(FC)을 이용해 **경도인지장애(MCI)/초기 AD**를 조기 탐지하는 AI 모델을 구축·해석한다. 
